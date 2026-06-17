@@ -1,0 +1,82 @@
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.zip
+*.tar.gz
+*.rar
+target/
+.classpath
+.project
+.settings/
+*.DS_Store
+build/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+*.apk
+*.app
+*.ipa
+*.exe
+*.unitypackage
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.next/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.gradle/
+.maven/
+pycache/
+.pytest_cache/
+
+# Coverage
+coverage/
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary
+*.tmp
+*.temp
+~*
